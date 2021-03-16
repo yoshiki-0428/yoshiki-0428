@@ -2,8 +2,8 @@ name: build pdf
 
 on:
   push:
-    tags:
-    - 'v*'
+    branches:
+    - 'master'
 
 jobs:
   build:
@@ -17,23 +17,31 @@ jobs:
       - run: npm install
       - name: build pdf
         run: npm run build:pdf
-      - name: create release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ github.ref }}-pdf
-          release_name: Release ${{ github.ref }}
-          draft: false
-          prerelease: false
-      - name: upload Release Asset
-        id: upload-release-asset
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./docs/README.pdf
-          asset_name: resume.pdf
-          asset_content_type: application/pdf
+      - name: Git commit and push
+          run: |
+            git config --global user.email "rrrtcdish@gmail.com"
+            git config --global user.name "yoshiki-0428"
+            git add .
+            git status
+            git commit -m 'generate PDF' && git push ${REPO} ${{github.event.pull_request.head.ref}}
+
+      # - name: create release
+      #   id: create_release
+      #   uses: actions/create-release@v1
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #   with:
+      #     tag_name: ${{ github.ref }}-pdf
+      #     release_name: Release ${{ github.ref }}
+      #     draft: false
+      #     prerelease: false
+      # - name: upload Release Asset
+      #   id: upload-release-asset
+      #   uses: actions/upload-release-asset@v1
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #   with:
+      #     upload_url: ${{ steps.create_release.outputs.upload_url }}
+      #     asset_path: ./docs/README.pdf
+      #     asset_name: resume.pdf
+      #     asset_content_type: application/pdf
