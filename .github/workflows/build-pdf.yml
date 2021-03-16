@@ -18,12 +18,12 @@ jobs:
       - name: build pdf
         run: npm run build:pdf
       - name: Git commit and push
-          run: |
-            git config --global user.email "rrrtcdish@gmail.com"
-            git config --global user.name "yoshiki-0428"
-            git add .
-            git status
-            git commit -m 'generate PDF' && git push ${REPO} ${{github.event.pull_request.head.ref}}
+        run: |
+          git config --global user.email "rrrtcdish@gmail.com"
+          git config --global user.name "yoshiki-0428"
+          git add .
+          git status
+          git commit -m 'generate PDF' && git push ${REPO} ${{github.event.pull_request.head.ref}}
 
       # - name: create release
       #   id: create_release
