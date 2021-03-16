@@ -13,10 +13,10 @@
 
 ## 学歴
 
-- 2012年4月～2016年3月  
+- 2012年4月 ~ 2016年3月  
   - 新潟国際情報大学 情報システム学科
 
-- 2009年4月～2012年3月
+- 2009年4月 ~ 2012年3月
   - 新潟県立三条商業高等学校 商業科
 
 ## スキル
@@ -59,6 +59,7 @@
 
 - GitHub Actions
 - Circle CI
+- GitLab CI
 
 ### その他周辺ツール
 
@@ -77,26 +78,25 @@
 
 #### CtoC DIY商品販売ECサイト開発
 
-サービス立ち上げ途中における機能強化を目的とした開発に携わる
+サービス立ち上げ途中における機能強化を目的とした開発に携わりました。
 
-- React, TypeScript によるフロントエンド開発
-- Atomic Designを使用したエコシステムの構築
-- Cypressを利用したE2Eテスト環境の構築
-- GitHub Actionsを利用しE2E自動テスト環境の構築
-
-- 利用技術
-  - React.js(TypeScript)
-  - Redux
-  - styled-components
-  - Cypress
-  - Jest
-  - Golang (echo) ※一部API部分を担当しました
-
-- チーム人数
+- ** プロジェクト規模: **
   - 15人
     - PM兼デザイナー: 3人
     - フロントエンド: 6人
     - バックエンド: 6人
+- ** 役割: **
+  - 機能検討、設計、コーディング、レビュー
+- ** プロジェクト詳細: **
+  - React, TypeScript によるフロントエンド機能開発
+  - Atomic Designを使用したエコシステムの構築
+  - Cypressを利用したE2Eテスト環境の構築
+  - GitHub Actionsを利用しE2E自動テスト環境の構築
+
+- ** 利用技術: **
+  - React.js(TypeScript), Redux, styled-components, Cypress, Jest
+  - Golang (echo) ※一部API部分を担当しました
+  - GitHub Actions
 
 ---
 
@@ -111,36 +111,33 @@
 
 #### 手術ロボットリアルタイム監視ダッシュボード開発
 
-ゼロからのサービス立ち上げに携わりました。マイクロサービスアーキテクチャで構成されており、医療機器(IoT)からPOSTされるレコードをPubSubAPIでDBに保存をし、保存されたデータをリアルタイムにダッシュボードに表示させ、医療従事者に医療現場のログを可視化する価値を提供するシステム開発です。
+- ** プロジェクト概要: **
+  - ゼロからのサービス立ち上げに携わりました。マイクロサービスアーキテクチャで構成されており、医療機器(IoT)からPOSTされるレコードをPubSubAPIでDBに保存をし、保存されたデータをリアルタイムにダッシュボードに表示させ、医療従事者に医療現場のログを可視化する価値を提供するシステム開発です。
 
-- API
-  - アプリの認証部分(OAuth2)を担当しました。Spring Cloud Gatewayを使用し、認証情報をGatewayに管理をさせ、フロントとFBBと通信を行うように処理をしました。実装方針としてはなるべくSpringの機能を最大限活用し、自分でコードは書かないことを意識しておりました。（FW内のコードで何をしているか理解し、必要な部分を置き換えることを重点的に行いました）
-
-- Front
-  - AtomicDesignの思想でコンポーネント開発を行いました。BFFとOAuth2認証、PubSubAPIでのリアルタイムデータ表示、Three.jsでのリアルタイムモデル再生といった先進的な技術挑戦をしました。
-
-- 詳細な技術解決内容は[こちら](https://job-draft.jp/users/45995#resume-header)に記載しております
-
-- 利用技術
-  - Golang
-  - Java11
-  - OpenAPI Generator
-  - Spring
-    - Spring WebFlux
-    - Spring Boot
-    - Spring Cloud Gateway
-  - Jooq
-  - Vue.js (TypeScript)
-  - Jest
-  - Atomic Design
-
-- チーム人数
+- ** プロジェクト規模: **
   - 11人
     - IoTチーム: 2人
     - PM: 1人
     - インフラ: 1人
     - バックエンド: 3人
     - フロントエンド: 4人
+
+- ** 役割: **
+  - 機能検討(インセプションデッキ作成・検討)、設計、コーディング、レビュー
+
+- ** プロジェクト詳細: **
+  - API
+    - アプリの認証部分(OAuth2)を担当しました。Spring Cloud Gatewayを使用し、認証情報をGatewayに管理をさせ、フロントとFBBと通信を行うように処理をしました。実装方針としてはなるべくSpringの機能を最大限活用し、自分でコードは書かないことを意識しておりました。（FW内のコードで何をしているか理解し、必要な部分を置き換えることを重点的に行いました）
+
+  - Front
+    - Atomic Designの思想でコンポーネント開発を行いました。BFFとOAuth2認証、PubSubAPIでのリアルタイムデータ表示、Three.jsでのリアルタイムモデル再生といった先進的な技術挑戦をしました。
+
+  - 詳細な技術解決内容は[こちら](https://job-draft.jp/users/45995#resume-header)に記載しております
+
+- ** 利用技術: **
+  - Golang, Java11, OpenAPI Generator, Spring WebFlux, Spring Boot, Spring Cloud Gateway, Jooq
+  - Vue.js (TypeScript), Jest, Atomic Design
+  - GitLab CI/CD
 
 ---
 
@@ -153,15 +150,34 @@
 |事業内容|情報通信業|
 |従業員数|6000名以上|
 
-#### XXXプロジェクト
+#### 蓄電システムのWeb管理アプリケーション開発
 
-概要を書く
+- ** プロジェクト概要: **
+  - 既存システムの改修案件に携わりました。蓄電システムのWeb管理アプリのPM兼開発者として要件定義-結合フェーズまで担当いたしました。
 
-- やったこと
-- 利用技術
-  - XXX
-- チーム人数
-  - 人
+- ** プロジェクト規模: **
+  - ４人
+    - PM兼開発: 1人
+    - フロント: 2人
+    - バックエンド: 1人
+
+- ** 役割: **
+  - 顧客機能提案、設計、コーディング、レビュー
+
+- ** プロジェクト詳細: **
+  - SpringBootを使用したサーバーサイドAPI改修
+  - フロントの画面開発
+  - バッチ処理の改修（Shell Script）
+  - 既存システムにDB Migrate
+  - 空き時間に改善した内容
+    - チームにIntelliJ IDEA導入
+    - ローカル開発DB構築にDockerの導入
+    - Seleniumを使用した自動テストの導入
+
+- ** 利用技術: **
+  - Java8, SpringBoot, thmeleaf, MyBatis
+  - jQuery, Selenium
+  - Docker, Flyway
 
 ---
 
