@@ -17,6 +17,7 @@ li {
 
 table {
   font-size: 11px;
+  border-collapse: collapse;
 }
 
 td,
