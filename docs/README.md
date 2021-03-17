@@ -25,7 +25,7 @@
 | 2019/10<br>~<br>2020/10 | <br>㈱OPTiM／手術ロボットリアルタイム監視ダッシュボード開発<br>マイクロサービスアーキテクチャで構成。医療機器(IoT)からPOSTされるレコードをPubSubAPIでDBに保存をし、保存されたデータをリアルタイムにダッシュボードに表示させ、医療従事者に医療現場のログを可視化する価値を提供するシステム開発。<br><br>【範囲】機能検討(インセプションデッキ作成・検討)、設計、コーディング、レビュー<br>【API】アプリの認証部分(OAuth2)を担当。Spring Cloud Gatewayを使用し、認証情報をGatewayに管理をさせ、フロントとFBBと通信を行うように処理をしました。実装方針としてはなるべくSpringの機能を最大限活用（Springはエコシステム上最適と判断し選択）<br>【Front】Atomic Designの思想でコンポーネント開発。BFF、OAuth2認証、WebSocket, SSEでのリアルタイムデータ表示、Three.jsでロボットリアルタイムモデル再生といった先進的な技術挑戦を経験。<br><br>詳細な技術解決内容は[こちら](https://job-draft.jp/users/45995#resume-header)に記載しております<br>（https://job-draft.jp/users/45995#resume-header） | Java11<br>Golang, OpenAPI<br>Spring WebFlux,<br>Spring Boot,<br>SpringCloudGateway, JOOQ<br><br>Vue.js, Jest, Atomic Design<br><br>GitLab CI/CD | メンバー/11名 |
 | 2019/04<br>　　～<br>2019/09 | GMO社/蓄電システム顧客管理Webアプリ<br>既存システムの改修案件に携わる。蓄電システムのWeb管理アプリのPM兼開発者として要件定義-結合フェーズまで担当<br><br>【範囲】顧客機能提案、設計、コーディング、レビュー<br><br>【詳細】<br>SpringBootを使用したサーバーサイドAPI改修<br>フロントの画面開発<br>バッチ処理の改修（Shell Script）<br>既存システムDBにFlywayを導入<br>・空き時間に改善した内容<br>チームにIntelliJ IDEA導入, ローカル開発DB構築にDockerの導入, Seleniumを使用した自動テストの導入 | Java8, SpringBoot, Thymeleaf, MyBatis<br><br>jQuery, Selenium<br><br>Docker, Flyway<br> | PM/4人 |## 基本情報
 
-<div style="display: flex; justify-content: space-between; border-bottom: 1px solid;">
+<div style="display: flex; justify-content: space-between; border-bottom: 1px solid; margin-top: 10px;">
     <div>株式会社クロノス</div>
   <div>(勤務期間: 2017/04 ~ 2019/03)</div>
 </div>
@@ -39,8 +39,49 @@
 | 2017/09<br>~<br>2018/01 | 情報銀行PoCプロジェクト、旅行提案型Androidアプリ開発<br>情報銀行としての役割を試験的に検証するためのPoC案件<br>登録者が詳細な個人情報以外の性格情報等を入力し、入力の代わりにオペレータが観光地の旅行プランを提案するAndroidアプリ<br><br>【範囲】<br>バックエンド設計、設計、コーディング、レビュー<br><br>【詳細】<br>Salesforceの基本設定、SalesforceのHeroku ConnectでのDB連携<br>Heroku Connect側のAPI設計 | Apex(Java) <br>Salesforce, Heroku, Heroku Connect, SpringBoot<br>Java(Android) | メンバー/5人 |
 | 2017/04<br>~<br>2017/08 | 官公庁/オリンピックマスコット募集サイト開発<br>ゼロからの開発となりサービスの立ち上げを担当<br>東京オリンピックのマスコットを募集するためのサイト<br><br>【範囲】<br>基本設計, 詳細設計、コーディング、レビュー<br><br>【詳細】<br>Salesforceのサイト公開機能を利用し公開ページを作成<br>登録者に向けて仮登録機能、本登録機能、メール送信機能を提供<br>仮登録時に有効期限を１時間としたtoken付きURLの発行<br>複数画像の同時登録機能の提供 | Salesforce Site, Apex, Visualforce | メンバー/5人 |
 
+<div style="display: flex; justify-content: space-between; border-bottom: 1px solid; margin-top: 10px;">
+    <div>トリオシステムプランズ株式会社</div>
+  <div>(勤務期間: 2016/04 ~ 2017/03)</div>
+</div>
 
+### 事業内容: 製造、流通業、医療のシステム開発事業
 
+| 期間 | 担当業務（プロジェクト内容） | 開発環境等 | 組織/役割 |
+| - | - | - | - |
+| 2016/04<br>~<br>2017/03 | ミズノ/物流システム開発<br>海外流通のあるスポーツメーカーの内部システムの改修案件に携わる<br><br>【範囲】<br>設計、コーディング<br><br>【詳細】<br>SpringBootフレームワーク上でAPIの追加<br>関税、国別通貨別の料金計算<br>商品受注、料金計算を行う画面開発 | Salesforce<br>Java8, SpringBoot<br>thymeleaf, JPA<br>jQuery, JavaScript | メンバー/5人 |
+
+## 保有資格
+
+- Oracle Java Silver SE 8
+- 日商簿記検定3級
+- 色彩検定2級
+
+## スキル
+
+| 種類 | 言語環境 | 期間 | レベル |
+| - | - | - | - |
+| 言語 | Java8, Java11 | ★4年 | メンバーに指導ができる |
+|  | Kotlin | ★1年 | 業務で即戦力になれる |
+|  | JavaScript | ★2年 | 業務で即戦力になれる |
+|  | TypeScript | ★2年 | 業務で即戦力になれる |
+|  | Go | ★1年 | 業務で即戦力になれる |
+| DB | MySQL | ★2年 | 構築からチューニングまで対応できる |
+|  | PostgresSQL | ★1年 | 知識がある |
+| フレームワーク | Spring Boot | ★3年 | メンバーに指導ができる |
+|  | Spring MVC | ★1年 | メンバーに指導ができる |
+|  | Spring WebFlux | ★1年 | メンバーに指導ができる |
+|  | Spring Security | ★1年 | 使用経験がある |
+|  | Spring Cloud Gateway | ★1年 | メンバーに指導ができる |
+|  | Golang echo | ★1年 | 使用経験がある |
+|  | Golang gin | ★1年 | 使用経験がある |
+|  | Vue.js | ★2年 | メンバーに指導ができる |
+|  | React.js | ★2年 | メンバーに指導ができる |
+|  | Gatsby.js | 1年 | 個人開発 Gatsby Theme開発<br>(https://github.com/yoshiki-0428/gatsby-all-pack-theme-starter) |
+|  | Next.js | 1年 | 個人開発 みんなのサブスク<br>(https://review.subsc.cc) |
+|  | frourio | 半年 | 個人開発で使用 |
+| CI/CD | GitHub Actions | ★1年 | 使用経験がある |
+|  | Circle CI | ★1年 | 使用経験がある |
+|  | GitLab CI | ★1年 | 使用経験がある |
 
 
 |key|value|
