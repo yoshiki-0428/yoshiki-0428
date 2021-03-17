@@ -12,10 +12,12 @@
 
 ## 職務経歴
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; text-decoration: underline; margin-bottom: 0.5px;">
   <div>個人事業主として活動</div>
   <div>(勤務期間: 2019/04 ~ 現在)</div>
 </div>
+
+### 事業内容: インターネットサービス開発・運営
 
 ## 基本情報
 
