@@ -61,7 +61,8 @@
 | 2016/04<br>~<br>2017/03 | **YONEX/物流システム開発**<br>海外流通のあるスポーツメーカーの内部システムの改修案件に携わる<br><br>**範囲:** 設計、コーディング<br><br>**詳細:**<br>SpringBootフレームワーク上でAPIの追加<br>関税、国別通貨別の料金計算<br>商品受注、料金計算を行う画面開発 | Salesforce<br>Java8, SpringBoot<br>thymeleaf, JPA<br>jQuery, JavaScript | メンバー/5人 |
 
 </div>
-    
+
+
 ## 保有資格
 
 - Oracle Java Silver SE 8
@@ -74,9 +75,9 @@
 | - | - | - | - |
 | 言語 | Java8, Java11 | ★4年 | メンバーに指導ができる |
 |  | Kotlin | ★1年 | 業務で即戦力になれる |
+|  | Golang | ★1年 | 業務で即戦力になれる |
 |  | JavaScript | ★2年 | 業務で即戦力になれる |
 |  | TypeScript | ★2年 | 業務で即戦力になれる |
-|  | Golang | ★1年 | 業務で即戦力になれる |
 | DB | MySQL | ★2年 | 構築からチューニングまで対応できる |
 |  | PostgresSQL | ★1年 | 知識がある |
 | フレームワーク | Spring Boot | ★3年 | メンバーに指導ができる |
@@ -106,12 +107,11 @@
 
 ## 課外活動
 
-### 技術記事投稿
+### 技術投稿
 
 - GitHub: https://github.com/yoshiki-0428
 - Qiita: https://qiita.com/yoshiki-0428
 - Blog: https://tech-blog.yoshikiohashi.dev
-- Zenn: https://zenn.dev/yoshiki__0428
 
 ### 個人開発
 
