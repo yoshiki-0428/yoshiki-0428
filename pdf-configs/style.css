@@ -11,6 +11,10 @@ h1:first-child {
   text-align: center;
 }
 
+li {
+    margin-left: -10px;
+}
+
 table {
   font-size: 11px;
   border-collapse: collapse;
