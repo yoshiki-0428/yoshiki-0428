@@ -23,9 +23,7 @@
 | - | - | - | - |
 | 2020/11<br>~<br>現在 | DCM社/CtoC DIY商品販売ECサイト開発<br>DIY商品のEC販売サイトの新規開発<br><br>機能検討、設計、コーディング、レビュー<br><br>【詳細】<br>React, TypeScript によるフロントエンド機能開発<br>Atomic Designを使用したエコシステムの構築<br>Cypressを利用したE2Eテスト環境の構築<br>GitHub Actionsを利用しE2E自動テスト環境の構築 | Golang(echo)<br><br>React(TypeScript)<br>Redux, styled-components, Cypress, Jest<br><br>GitHub Actions | メンバー/15名 |
 | 2019/10<br>　　～<br>2020/10 | <br>㈱OPTiM／手術ロボットリアルタイム監視ダッシュボード開発<br>マイクロサービスアーキテクチャで構成。医療機器(IoT)からPOSTされるレコードをPubSubAPIでDBに保存をし、保存されたデータをリアルタイムにダッシュボードに表示させ、医療従事者に医療現場のログを可視化する価値を提供するシステム開発。<br><br>【範囲】機能検討(インセプションデッキ作成・検討)、設計、コーディング、レビュー<br>【API】アプリの認証部分(OAuth2)を担当。Spring Cloud Gatewayを使用し、認証情報をGatewayに管理をさせ、フロントとFBBと通信を行うように処理をしました。実装方針としてはなるべくSpringの機能を最大限活用（Springはエコシステム上最適と判断し選択）<br>【Front】Atomic Designの思想でコンポーネント開発。BFF、OAuth2認証、WebSocket, SSEでのリアルタイムデータ表示、Three.jsでロボットリアルタイムモデル再生といった先進的な技術挑戦を経験。<br><br>詳細な技術解決内容はこちらに記載しております<br>（https://job-draft.jp/users/45995#resume-header） | Java11<br>Golang, OpenAPI<br>Spring WebFlux,<br>Spring Boot,<br>SpringCloudGateway, JOOQ<br><br>Vue.js, Jest, Atomic Design<br><br>GitLab CI/CD | メンバー/11名 |
-|  |  |  |  |
-
-## 基本情報
+| 2019/04<br>　　～<br>2019/09 | GMO社／蓄電システム顧客管理Webアプリ<br>既存システムの改修案件に携わる。蓄電システムのWeb管理アプリのPM兼開発者として要件定義-結合フェーズまで担当<br><br>【範囲】顧客機能提案、設計、コーディング、レビュー<br><br>【詳細】<br>SpringBootを使用したサーバーサイドAPI改修<br>フロントの画面開発<br>バッチ処理の改修（Shell Script）<br>既存システムDBにFlywayを導入<br>・空き時間に改善した内容<br>チームにIntelliJ IDEA導入, ローカル開発DB構築にDockerの導入, Seleniumを使用した自動テストの導入 | Java8, SpringBoot, Thymeleaf, MyBatis<br><br>jQuery, Selenium<br><br>Docker, Flyway<br> | PM/4人 |## 基本情報
 
 |key|value|
 |---|-----|
