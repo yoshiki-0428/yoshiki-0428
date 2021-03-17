@@ -1,8 +1,8 @@
 # 職務経歴書
 
-<div class=".text-left">2021/03/17 現在</div>
+<div class="text-left">2021/03/17 現在</div>
 
-<div class=".text-left">氏名 大橋芳生</div>
+<div class="text-left">氏名 大橋芳生</div>
 
 ## 基本情報
 
