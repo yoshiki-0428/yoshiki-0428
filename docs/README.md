@@ -1,6 +1,6 @@
 # 職務経歴書
 
-<div style="text-align: right;">2021/03/17 現在</div>
+<div style="text-align: right;">2021/06/01 現在</div>
 
 <div style="text-align: right;">氏名 大橋芳生</div>
 
@@ -14,7 +14,7 @@
 
 <div style="display: flex; justify-content: space-between; border-bottom: 1px solid;">
     <div>楽天株式会社</div>
-  <div>(勤務期間: 2021/0６ ~ 現在)</div>
+  <div>(勤務期間: 2021/06 ~ 現在)</div>
 </div>
 
 ### 事業内容: Eコマース、フィンテック、デジタルコンテンツ、通信など７０以上のサービスの開発・運用
