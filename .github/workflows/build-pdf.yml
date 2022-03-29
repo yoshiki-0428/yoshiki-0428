@@ -17,11 +17,14 @@ jobs:
       - run: npm install
       - name: build pdf
         run: npm run build:pdf
+      - name: build pdf en
+        run: npm run build:pdf:en
       - name: Git commit and push
         run: |
           git config --global user.email "rrrtcdish@gmail.com"
           git config --global user.name "yoshiki-0428"
           git add ./docs/README.pdf
+          git add ./docs/README-en.pdf
           git status
           git commit -m 'generate PDF' && git push ${REPO} ${{github.event.pull_request.head.ref}}
 
