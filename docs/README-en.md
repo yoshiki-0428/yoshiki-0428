@@ -1,28 +1,28 @@
-# 職務経歴書
+# curriculum vitae
 
-<div style="text-align: right;">2022/03/31 現在</div>
+<div style="text-align: right;">2022/03/31 Now</div>
 
-<div style="text-align: right;">氏名 大橋芳生</div>
+<div style="text-align: right;">Name: Yoshiki Ohashi</div>
 
-## 職務概要
+## work summary
 
 <div style="border: 1px solid; padding: 3px;">
-大学を卒業後、情報通信系開発会社に入社. システムエンジニアとしてプログラム基本設計、開発を担当. 一貫して物流業界の業務システム開発に携わる. 2社目ではゼロからのスクラッチ開発を経験するため、ベンチャー企業に2年ほど在籍. 企画、設計から開発業務、ときにはIT講師として幅広い経験を積む. モダンな言語をスピード感早くキャッチアップするため個人事業主として約2年間経験し、先進的なマイクロサービスアーキテクチャで多彩な言語の開発業務を経験.　その後、業務委託契約では「責任のある本番業務」があまり体験できないことを理由に正社員として楽天グループ株式会社に就職. 現在ではRuby on Railsを用いたフリマアプリ開発を担当.
+After graduating from university, joined an information and telecommunications development company. As a system engineer, he was in charge of basic program design and development. Consistently engaged in the development of business systems for the logistics industry. In his second company, he worked for a venture company for two years to experience scratch development from scratch. He gained a wide range of experience from planning and design to development work and sometimes as an IT instructor. He worked as a sole proprietor for about 2 years in order to catch up with modern languages quickly, and experienced development work in various languages with advanced microservices architecture.　After that, he joined Rakuten Group, Inc. as a full-time employee because he could not experience "responsible production work" as much as he could with outsourcing contract. Currently, he is in charge of developing a flea market application using Ruby on Rails.
 </div>
 
-## 職務経歴
+## work experience
 
 <div style="display: flex; justify-content: space-between; border-bottom: 1px solid; margin-top: 10px;">
-    <div>楽天グループ株式会社</div>
-  <div>(勤務期間: 2021/06 ~ 現在)</div>
+    <div>Rakuten Group, Inc.</div>
+  <div>(Work period: 2021/06 ~ now)</div>
 </div>
 
 
-### 事業内容: Eコマース、フィンテック、デジタルコンテンツ、通信など７０以上のサービスの開発・運用
+### Business: Development and operation of more than 70 services including e-commerce, fintech, digital content, and telecommunications
 
 <div class="career ">
 
-| 期間 | 担当業務 | 開発環境等 | 役割/規模 |
+| Period | Project Details | Development Environment | Role/Scale |
 | - | - | - | - |
 | 2021/06<br>~<br>現在 | **楽天/フリマアプリ追加機能開発**<br>バックエンドエンジニアとして新配送機能の開発設計業務<br><br>**範囲:** 要件定義、機能検討、設計、コーディング、レビュー<br><br>**詳細:**<br>ゆうパケットプラス・ポストに対応する設計・開発、コンビニ受取の設計・開発。<br>事業側との開発前のユーザストーリーマッピングを実施。チームの慣例に毎月KPT振返りを実施。<br>20億レコードを超えるテーブルにメンテナンスでカラム追加の実施。 | Ruby on Rails 5<br><br>AWS EC2<br>Circle CI | メンバー/200名<br>Business/100名<br>Develop/100名 |
 
@@ -30,15 +30,15 @@
 </div>
 
 <div style="display: flex; justify-content: space-between; border-bottom: 1px solid; margin-top: 10px;">
-    <div>個人事業主として活動</div>
-  <div>(勤務期間: 2019/04 ~ 2021/05)</div>
+    <div>Worked as a freelancer</div>
+  <div>(Work period: 2019/04 ~ 2021/05)</div>
 </div>
 
-### 事業内容: インターネットサービス開発・運営
+### Business: Internet service development and operation
 
 <div class="career ">
 
-| 期間 | 担当業務 | 開発環境等 | 役割/規模 |
+| Period | Project Details | Development Environment | Role/Scale |
 | - | - | - | - |
 | 2020/11<br>~<br>2021/05 | **DCM社/CtoC DIY商品販売ECサイト開発**<br>DIY商品のEC販売サイトの新規開発<br><br>**範囲:** 機能検討、設計、コーディング、レビュー<br><br>**詳細:**<br>React, TypeScript によるフロントエンド機能開発<br>Atomic Designを使用したエコシステムの構築<br>Cypressを利用したE2Eテスト環境の構築<br>GitHub Actionsを利用しE2E自動テスト環境の構築 | Golang(echo)<br><br>React(TypeScript)<br>Redux, styled-components, Cypress, Jest<br><br>GitHub Actions | メンバー/15名 |
 | 2019/10<br>~<br>2020/10 | **(株)OPTiM/手術ロボットリアルタイム監視ダッシュボード開発**<br>マイクロサービスアーキテクチャで構成. 医療機器(IoT)からPOSTされるレコードをPubSubAPIでDBに保存をし、保存されたデータをリアルタイムにダッシュボードに表示させ、医療従事者に医療現場のログを可視化する価値を提供するシステム開発.<br><br>**範囲:** 機能検討(インセプションデッキ作成・検討)、設計、コーディング、レビュー<br>**API:** アプリの認証部分(OAuth2)を担当. Spring Cloud Gatewayを使用し、認証情報をGatewayに管理をさせ、フロントとFBBと通信を行うように処理をしました. 実装方針としてはなるべくSpringの機能を最大限活用（Springはエコシステム上最適と判断し選択）<br>**Front:** Atomic Designの思想でコンポーネント開発. BFF、OAuth2認証、WebSocket, SSEでのリアルタイムデータ表示、Three.jsでロボットリアルタイムモデル再生といった先進的な技術挑戦を経験.<br><br>詳細な技術解決内容は[こちら](https://job-draft.jp/users/45995#resume-header)に記載しております<br>（https://job-draft.jp/users/45995#resume-header） | Java11<br>Golang, OpenAPI<br>Spring WebFlux,<br>Spring Boot,<br>SpringCloudGateway, JOOQ<br><br>Vue.js, Jest, Atomic Design<br><br>GitLab CI/CD | メンバー/11名 |
@@ -47,15 +47,15 @@
 </div>
 
 <div style="display: flex; justify-content: space-between; border-bottom: 1px solid; margin-top: 10px;">
-    <div>株式会社クロノス</div>
-  <div>(勤務期間: 2017/04 ~ 2019/03)</div>
+    <div>Kuronos Inc.</div>
+  <div>(Work period: 2017/04 ~ 2019/03)</div>
 </div>
 
-### 事業内容: AIソリューション、Web・モバイルアプリ開発、IT研修
+### Business: AI solutions, web and mobile app development, IT training
 
 <div class="career">
 
-| 期間 | 担当業務（プロジェクト内容） | 開発環境等 | 役割/規模 |
+| Period | Project Details | Development Environment | Role/Scale |
 | - | - | - | - |
 | 2018/06<br>~<br>2019/03 | **DMM社/パチンコ・パチスロ情報統合アプリ開発**<br>公共賭博の店舗情報などを公開するスマホアプリのAndroid、iOSアプリの改修案件を担当いたしました. 改修内容としては、単純にアプリの画面開発だけでなく、新機能の追加の際に必要となるAPI項目の洗出〜作成依頼、アプリ側の通信〜画面表示までを担当<br><br>**範囲:** 画面設計、設計、コーディング、レビュー<br><br>**詳細:**<br>既存アプリのバグ改修や新規機能の追加業務を担当<br>APIチームへ開発に必要なJSONスキーマの連携<br>チーム内で振り返り手法のKPTを利用し、開発効率の向上<br>アプリ開発者からAPIチームへの連絡手段が限られる => 別チームにも気軽に連携できるように工夫 | Java(Android)<br>Kotlin<br>Objective-C<br>ButterKnife, PopInfo(通知ライブラリ)<br>GitLab | メンバー/3人 |
 | 2018/01<br>~<br>2018/04 | **自社サービス／社員モチベーション管理Webアプリ**<br>ゼロからの開発となりサービスの立ち上げを担当<br>社員のモチベーションを外部GmailやSlack、その他チャットツールを利用し社員のモチベーションをWatsonAPIにより判定させるWebアプリケーション<br><br>**範囲:** 画面設計、設計、コーディング、レビュー<br><br>**詳細:**<br>Kotlin(Spring), Vue.jsでのSPA開発<br>SlackAPIとの認証処理<br>フロントからバックエンドにかけてCSVでのユーザ登録機能の作成 | Kotlin(Spring)<br>Gradle<br>MySQL, DOMA2<br><br>WatsonAPI, SlackAPI, ChatworkAPI<br><br>AWS EC2, Docker, docker-compose | メンバー/4人 |
@@ -65,15 +65,15 @@
 </div>
     
 <div style="display: flex; justify-content: space-between; border-bottom: 1px solid; margin-top: 10px;">
-    <div>トリオシステムプランズ株式会社</div>
-  <div>(勤務期間: 2016/04 ~ 2017/03)</div>
+    <div>トリオシステムプランズ Inc.</div>
+  <div>(Work period: 2016/04 ~ 2017/03)</div>
 </div>
 
-### 事業内容: 製造、流通業、医療のシステム開発事業
+### Business: System development business for manufacturing, distribution, and healthcare
 
 <div class="career">
 
-| 期間 | 担当業務（プロジェクト内容） | 開発環境等 | 役割/規模 |
+| Period | Project Details | Development Environment | Role/Scale |
 | - | - | - | - |
 | 2016/04<br>~<br>2017/03 | **YONEX/物流システム開発**<br>海外流通のあるスポーツメーカーの内部システムの改修案件に携わる<br><br>**範囲:** 設計、コーディング<br><br>**詳細:**<br>SpringBootフレームワーク上でAPIの追加<br>関税、国別通貨別の料金計算<br>商品受注、料金計算を行う画面開発 | Salesforce<br>Java8, SpringBoot<br>thymeleaf, JPA<br>jQuery, JavaScript | メンバー/5人 |
 
@@ -81,29 +81,29 @@
 
 ## スキル
 
-| 種類 | 言語環境 | 期間 | レベル |
+| Type | Language | Period | Level |
 | - | - | - | - |
-| **言語** | Java8, Java11 | ★4年 | メンバーに指導ができる |
-|  | Kotlin | ★1年 | 業務で即戦力になれる |
-|  | Golang | ★1年 | 業務で即戦力になれる |
-|  | JavaScript | ★3年 | 業務で即戦力になれる |
-|  | TypeScript | ★3年 | 業務で即戦力になれる |
-| DB | MySQL | ★2年 | 構築からチューニングまで対応できる |
-|  | PostgresSQL | ★1年 | 知識がある |
-| フレームワーク | Spring Boot | ★3年 | メンバーに指導ができる |
-|  | Spring MVC | ★1年 | メンバーに指導ができる |
-|  | Spring WebFlux | ★1年 | メンバーに指導ができる |
-|  | Spring Security | ★1年 | 使用経験がある |
-|  | Spring Cloud Gateway | ★1年 | メンバーに指導ができる |
-|  | Rails | ★1年 | 業務で即戦力になれる |
-|  | Vue.js | ★2年 | メンバーに指導ができる |
-|  | React.js | ★2年 | メンバーに指導ができる |
-|  | Gatsby.js | 1年 | 個人開発 Gatsby Theme開発<br>(https://github.com/yoshiki-0428/gatsby-all-pack-theme-starter) |
-|  | Next.js | 1年 | 個人開発 みんなのサブスク<br>(https://review.subsc.cc) |
-|  | frourio | 半年 | 個人開発で使用 |
-| **CI/CD** | GitHub Actions | ★1年 | 使用経験がある |
-|  | Circle CI | ★1年 | 使用経験がある |
-|  | GitLab CI | ★1年 | 使用経験がある |
+| Language | Java8, Java11 | ★4　Year | I can teach the members |
+|  | Kotlin | ★1　Year | Immediate results in the business |
+|  | Golang | ★1　Year | Immediate results in the business |
+|  | JavaScript | ★3　Year | Immediate results in the business |
+|  | TypeScript | ★3　Year | Immediate results in the business |
+| DB | MySQL | ★2　Year | Have a knowledge |
+|  | PostgresSQL | ★1　Year | Have a knowledge |
+| Framework | Spring Boot | ★3　Year | I can teach the members |
+|  | Spring MVC | ★1　Year | I can teach the members |
+|  | Spring WebFlux | ★1　Year | I can teach the members |
+|  | Spring Security | ★1　Year | Experience in use |
+|  | Spring Cloud Gateway | ★1 Year | I can teach the members |
+|  | Rails | ★1 Year | Immediate results in the business |
+|  | Vue.js | ★2 Year | I can teach the members |
+|  | React.js | ★2 Year | I can teach the members |
+|  | Gatsby.js | 1 Year | Personal Development Gatsby Theme開発<br>(https://github.com/yoshiki-0428/gatsby-all-pack-theme-starter) |
+|  | Next.js | 1 Year | Personal Development みんなのサブスク<br>(https://review.subsc.cc) |
+|  | frourio | 0.5 Year |  Personal Development in use |
+| **CI/CD** | GitHub Actions | ★1 Year | Experience in use |
+|  | Circle CI | ★1 Year | Experience in use |
+|  | GitLab CI | ★1 Year | Experience in use |
 
 > ※ 業務経験あり：★　
 
@@ -111,42 +111,41 @@
 
 - TOEIC 500 (2021/07/20)
 - Oracle Java Silver SE 8
-- 日商簿記検定3級
-- 色彩検定2級
 
-## 自己PR
+## Self PR
 
-　バックエンドからフロントエンドまで幅広く設計ができるWebアプリエンジニアです. 具体的な言語はGo, Java, Vue.js, TypeScriptを使用し、各言語特性を理解しマイクロサービスなアーキテクチャでのアプリ設計が可能です. 
-　バックエンド、OAuth2の認証部分の実装や、DBのSQLチューニング、BFFの構築をしフロントに連携して開発ができます. また、Spring5のWebFluxをコントロールし、PubSubAPIを通じたリアルタイムイベントの実装も担当いたしました.
-　フロントエンド、AtomicDesignでのコンポーネント思想、通信部分と表現部分を分離して開発することの重要性を理解しております. また、Three.jsのWebGLとSSE（リアルタイムイベント）を使用したロボットモデルのリアルタイムモデル再生といった先進的な技術的挑戦も業務で担当いたしました.
-アプリレイヤーだけでなく、各アプリのDockerイメージ化や、簡易スクリプトをk8s上でCronJob化するなど、アプリレイヤーからインフラ層へ繋げるスキルも持ち合わせております.
+　Web application engineer who can design a wide range of applications from back-end to front-end. We use Go, Java, Vue.js, and TypeScript, and can design applications with a microservices architecture and an understanding of the characteristics of each language. 
+　I can implement backend, OAuth2 authentication, DB SQL tuning, BFF construction, and develop in conjunction with the front-end. Also, I have controlled WebFlux in Spring5 and implemented real-time events through PubSubAPI.
+　He understands the importance of separating the front-end, the component philosophy of AtomicDesign, and the communication and representation parts of the development process. I was also responsible for advanced technical challenges such as real-time model playback of robot models using Three.js WebGL and SSE (real-time events).
+I also have the skills to connect the application layer to the infrastructure layer, such as creating Docker images of each application, and converting simple scripts to CronJobs on k8s.
 
-最近ではチームビルディングに興味があり、現在のチームで同じ課題を共有するためにYWT振返りをしたり、PJの機能見落としを防ぐためのユーザストーリーマッピング、ユースケースMTGをしています。
+Recently, I have been interested in team building, and we have been doing YWT review to share the same issues with our current team, user story mapping and use case MTG to avoid missing the features of PJ.
 
-## 課外活動
 
-### 技術投稿
+## External activities
+
+### Tech Blog
 
 - GitHub: https://github.com/yoshiki-0428
 - Qiita: https://qiita.com/yoshiki-0428
 - Blog: https://tech-blog.yoshikiohashi.dev
 
-### 個人開発
+### Personal Development
 
-- [みんなのサブスクメディアサイト企画・開発・運用](https://review.subsc.cc/)(https://review.subsc.cc/)
-- [Gatsby Theme開発](https://github.com/yoshiki-0428/gatsby-all-pack-theme-starter)(https://github.com/yoshiki-0428/gatsby-all-pack-theme-starter)
-- [ブログ開発](https://github.com/yoshiki-0428/engineer-blog)(https://github.com/yoshiki-0428/engineer-blog)
-- [3Dモデルを活かしたポートフォリオ作成](https://github.com/yoshiki-0428/vue_self_introdude)(https://github.com/yoshiki-0428/vue_self_introdude)
+- [Subsc Media Site Planning, Development the 'minna no subsc'](https://review.subsc.cc/)(https://review.subsc.cc/)
+- [Gatsby Theme Development](https://github.com/yoshiki-0428/gatsby-all-pack-theme-starter)(https://github.com/yoshiki-0428/gatsby-all-pack-) theme-starter)
+- [Blog Development](https://github.com/yoshiki-0428/engineer-blog)(https://github.com/yoshiki-0428/engineer-blog)
+- [Creating portfolios utilizing 3D models](https://github.com/yoshiki-0428/vue_self_introdude)(https://github.com/yoshiki-0428/vue_self_introdude)
 
-### 副業
+### Side job
 
-- 本の要約を各人で投稿できるCtoC Webサービスの開発
-    - フォロワー6万人ほどいるマーケター、デザイナーと協力し現在開発中
+- Development of a CtoC web service that allows each person to post a summary of a book.
 
-## 興味・意欲
 
-- チームで小さく早くリリースを行い、ユーザフィードバックを受けながら改善のサイクルを行う開発スタイルを好みます
-- ユーザファーストでユーザインタビュー、インセプションデッキを行ってからプロダクト開発をするのが得意です
-- 比較的バックエンドの実装が得意ですが、フロントエンドの実装も同等に可能です.インフラ構築経験がないため弱みと認識しています
-- 一部テスト用CIを回したり、アプリレベルのDockerイメージビルドの構築が可能です
-- リモートワークにおけるコミュニケーションの解決策としてペアプロ・モブプロを行い、ビジネスロジックの共有・チーム間の技術の継承を可能な限り行っています
+## Interests and Motivatons
+
+- Prefer a development style where the team makes small, quick releases, and then works through a cycle of improvement while receiving user feedback.
+- I am good at developing products after conducting user interviews and inception decks in a user-first manner.
+- I am relatively good at back-end implementation, but equally capable of front-end implementation. I have no experience in building infrastructure, which I recognize as a weakness.
+- Can run CI for some testing and build application-level Docker image builds
+- Pair Pro and Mob Pro as a solution for communication in remote work, sharing business logic and transferring skills between teams as much as possible.
