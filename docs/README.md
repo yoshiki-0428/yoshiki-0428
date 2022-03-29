@@ -1,6 +1,6 @@
 # 職務経歴書
 
-<div style="text-align: right;">2022/03/29 現在</div>
+<div style="text-align: right;">2022/03/31 現在</div>
 
 <div style="text-align: right;">氏名 大橋芳生</div>
 
