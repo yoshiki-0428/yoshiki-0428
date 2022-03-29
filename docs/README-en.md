@@ -1,6 +1,6 @@
 # curriculum vitae
 
-<div style="text-align: right;">2022/03/31 Now</div>
+<div style="text-align: right;">2022/03/31</div>
 
 <div style="text-align: right;">Name: Yoshiki Ohashi</div>
 
@@ -79,7 +79,7 @@ After graduating from university, joined an information and telecommunications d
 
 </div>
 
-## スキル
+## Skills
 
 | Type | Language | Period | Level |
 | - | - | - | - |
@@ -107,7 +107,7 @@ After graduating from university, joined an information and telecommunications d
 
 > ※ 業務経験あり：★　
 
-## 保有資格
+## Qualifications
 
 - TOEIC 500 (2021/07/20)
 - Oracle Java Silver SE 8
