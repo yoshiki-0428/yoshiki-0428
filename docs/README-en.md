@@ -1,6 +1,6 @@
 # curriculum vitae
 
-<div style="text-align: right;">2022/03/31</div>
+<div style="text-align: right;">2022/03/31 Now</div>
 
 <div style="text-align: right;">Name: Yoshiki Ohashi</div>
 
@@ -24,7 +24,7 @@ After graduating from university, joined an information and telecommunications d
 
 | Period | Project Details | Development Environment | Role/Scale |
 | - | - | - | - |
-| 2021/06<br>~<br>現在 | **楽天/フリマアプリ追加機能開発**<br>バックエンドエンジニアとして新配送機能の開発設計業務<br><br>**範囲:** 要件定義、機能検討、設計、コーディング、レビュー<br><br>**詳細:**<br>ゆうパケットプラス・ポストに対応する設計・開発、コンビニ受取の設計・開発。<br>事業側との開発前のユーザストーリーマッピングを実施。チームの慣例に毎月KPT振返りを実施。<br>20億レコードを超えるテーブルにメンテナンスでカラム追加の実施。 | Ruby on Rails 5<br><br>AWS EC2<br>Circle CI | メンバー/200名<br>Business/100名<br>Develop/100名 |
+| 2021/06<br>~<br>Now | **Rakuten/Additional function development for flea market application**<br>Development and design work for new delivery functions as a backend engineer<br><br>**Range:** Requirement definition, functional study, design, coding, and review<br><br>**Detail:**<br>Design and development for Yu-Packet Plus and Post, and design and development for convenience store pickup.<br>Conducted pre-development user story mapping with the business side. Conducted monthly KPT review as a team practice.<br>Maintenance implementation of column additions to tables with over 2 billion records. | Ruby on Rails 5<br><br>AWS EC2<br>Circle CI | Member/200名<br>Business/100<br>Develop/100 |
 
     
 </div>
@@ -40,9 +40,9 @@ After graduating from university, joined an information and telecommunications d
 
 | Period | Project Details | Development Environment | Role/Scale |
 | - | - | - | - |
-| 2020/11<br>~<br>2021/05 | **DCM社/CtoC DIY商品販売ECサイト開発**<br>DIY商品のEC販売サイトの新規開発<br><br>**範囲:** 機能検討、設計、コーディング、レビュー<br><br>**詳細:**<br>React, TypeScript によるフロントエンド機能開発<br>Atomic Designを使用したエコシステムの構築<br>Cypressを利用したE2Eテスト環境の構築<br>GitHub Actionsを利用しE2E自動テスト環境の構築 | Golang(echo)<br><br>React(TypeScript)<br>Redux, styled-components, Cypress, Jest<br><br>GitHub Actions | メンバー/15名 |
-| 2019/10<br>~<br>2020/10 | **(株)OPTiM/手術ロボットリアルタイム監視ダッシュボード開発**<br>マイクロサービスアーキテクチャで構成. 医療機器(IoT)からPOSTされるレコードをPubSubAPIでDBに保存をし、保存されたデータをリアルタイムにダッシュボードに表示させ、医療従事者に医療現場のログを可視化する価値を提供するシステム開発.<br><br>**範囲:** 機能検討(インセプションデッキ作成・検討)、設計、コーディング、レビュー<br>**API:** アプリの認証部分(OAuth2)を担当. Spring Cloud Gatewayを使用し、認証情報をGatewayに管理をさせ、フロントとFBBと通信を行うように処理をしました. 実装方針としてはなるべくSpringの機能を最大限活用（Springはエコシステム上最適と判断し選択）<br>**Front:** Atomic Designの思想でコンポーネント開発. BFF、OAuth2認証、WebSocket, SSEでのリアルタイムデータ表示、Three.jsでロボットリアルタイムモデル再生といった先進的な技術挑戦を経験.<br><br>詳細な技術解決内容は[こちら](https://job-draft.jp/users/45995#resume-header)に記載しております<br>（https://job-draft.jp/users/45995#resume-header） | Java11<br>Golang, OpenAPI<br>Spring WebFlux,<br>Spring Boot,<br>SpringCloudGateway, JOOQ<br><br>Vue.js, Jest, Atomic Design<br><br>GitLab CI/CD | メンバー/11名 |
-| 2019/04<br>~<br>2019/09 | **GMO社/蓄電システム顧客管理Webアプリ**<br>既存システムの改修案件に携わる. 蓄電システムのWeb管理アプリのPM兼開発者として要件定義-結合フェーズまで担当<br><br>**範囲:** 顧客機能提案、設計、コーディング、レビュー<br><br>**詳細:**<br>SpringBootを使用したサーバーサイドAPI改修<br>フロントの画面開発<br>バッチ処理の改修（Shell Script）<br>既存システムDBにFlywayを導入<br>・空き時間に改善した内容<br>チームにIntelliJ IDEA導入, ローカル開発DB構築にDockerの導入, Seleniumを使用した自動テストの導入 | Java8, SpringBoot, Thymeleaf, MyBatis<br><br>jQuery, Selenium<br><br>Docker, Flyway<br> | PM/4人 |
+| 2020/11<br>~<br>2021/05 | **DCM/CtoC DIY Product sales EC site development**<br>Development of a new EC sales site for DIY products<br><br>**Range:** Functional study, design, coding, and review<br><br>**Detail:**<br>Front-end function development with React, TypeScript<br>Building an ecosystem using Atomic Design<br>Building an E2E test environment using Cypress<br>Building an E2E automated testing environment using GitHub Actions | Golang(echo)<br><br>React(TypeScript)<br>Redux, styled-components, Cypress, Jest<br><br>GitHub Actions | Member/15 |
+| 2019/10<br>~<br>2020/10 | **(株)OPTiM/Development of real-time monitoring dashboard for surgical robots**<br>マイクロサービスアーキテクチャで構成. 医療機器(IoT)からPOSTされるレコードをPubSubAPIでDBに保存をし、保存されたデータをリアルタイムにダッシュボードに表示させ、医療従事者に医療現場のログを可視化する価値を提供するシステム開発.<br><br>**範囲:** 機能検討(インセプションデッキ作成・検討)、設計、コーディング、レビュー<br>**API:** アプリの認証部分(OAuth2)を担当. Spring Cloud Gatewayを使用し、認証情報をGatewayに管理をさせ、フロントとFBBと通信を行うように処理をしました. 実装方針としてはなるべくSpringの機能を最大限活用（Springはエコシステム上最適と判断し選択）<br>**Front:** Atomic Designの思想でコンポーネント開発. BFF、OAuth2認証、WebSocket, SSEでのリアルタイムデータ表示、Three.jsでロボットリアルタイムモデル再生といった先進的な技術挑戦を経験.<br><br>詳細な技術解決内容は[こちら](https://job-draft.jp/users/45995#resume-header)に記載しております<br>（https://job-draft.jp/users/45995#resume-header） | Java11<br>Golang, OpenAPI<br>Spring WebFlux,<br>Spring Boot,<br>SpringCloudGateway, JOOQ<br><br>Vue.js, Jest, Atomic Design<br><br>GitLab CI/CD | メンバー/11名 |
+| 2019/04<br>~<br>2019/09 | **GMO/Energy Storage System Customer Management Web Application**<br>既存システムの改修案件に携わる. 蓄電システムのWeb管理アプリのPM兼開発者として要件定義-結合フェーズまで担当<br><br>**範囲:** 顧客機能提案、設計、コーディング、レビュー<br><br>**Detail:**<br>SpringBootを使用したサーバーサイドAPI改修<br>フロントの画面開発<br>バッチ処理の改修（Shell Script）<br>既存システムDBにFlywayを導入<br>・空き時間に改善した内容<br>チームにIntelliJ IDEA導入, ローカル開発DB構築にDockerの導入, Seleniumを使用した自動テストの導入 | Java8, SpringBoot, Thymeleaf, MyBatis<br><br>jQuery, Selenium<br><br>Docker, Flyway<br> | PM/4人 |
 
 </div>
 
@@ -57,10 +57,10 @@ After graduating from university, joined an information and telecommunications d
 
 | Period | Project Details | Development Environment | Role/Scale |
 | - | - | - | - |
-| 2018/06<br>~<br>2019/03 | **DMM社/パチンコ・パチスロ情報統合アプリ開発**<br>公共賭博の店舗情報などを公開するスマホアプリのAndroid、iOSアプリの改修案件を担当いたしました. 改修内容としては、単純にアプリの画面開発だけでなく、新機能の追加の際に必要となるAPI項目の洗出〜作成依頼、アプリ側の通信〜画面表示までを担当<br><br>**範囲:** 画面設計、設計、コーディング、レビュー<br><br>**詳細:**<br>既存アプリのバグ改修や新規機能の追加業務を担当<br>APIチームへ開発に必要なJSONスキーマの連携<br>チーム内で振り返り手法のKPTを利用し、開発効率の向上<br>アプリ開発者からAPIチームへの連絡手段が限られる => 別チームにも気軽に連携できるように工夫 | Java(Android)<br>Kotlin<br>Objective-C<br>ButterKnife, PopInfo(通知ライブラリ)<br>GitLab | メンバー/3人 |
-| 2018/01<br>~<br>2018/04 | **自社サービス／社員モチベーション管理Webアプリ**<br>ゼロからの開発となりサービスの立ち上げを担当<br>社員のモチベーションを外部GmailやSlack、その他チャットツールを利用し社員のモチベーションをWatsonAPIにより判定させるWebアプリケーション<br><br>**範囲:** 画面設計、設計、コーディング、レビュー<br><br>**詳細:**<br>Kotlin(Spring), Vue.jsでのSPA開発<br>SlackAPIとの認証処理<br>フロントからバックエンドにかけてCSVでのユーザ登録機能の作成 | Kotlin(Spring)<br>Gradle<br>MySQL, DOMA2<br><br>WatsonAPI, SlackAPI, ChatworkAPI<br><br>AWS EC2, Docker, docker-compose | メンバー/4人 |
-| 2017/09<br>~<br>2018/01 | **情報銀行PoCプロジェクト、旅行提案型Androidアプリ開発**<br>情報銀行としての役割を試験的に検証するためのPoC案件<br>登録者が詳細な個人情報以外の性格情報等を入力し、入力の代わりにオペレータが観光地の旅行プランを提案するAndroidアプリ<br><br>**範囲:** バックエンド設計、設計、コーディング、レビュー<br><br>**詳細:** <br>Salesforceの基本設定、SalesforceのHeroku ConnectでのDB連携<br>Heroku Connect側のAPI設計 | Apex(Java) <br>Salesforce, Heroku, Heroku Connect, SpringBoot<br>Java(Android) | メンバー/5人 |
-| 2017/04<br>~<br>2017/08 | **官公庁/オリンピックマスコット募集サイト開発**<br>ゼロからの開発となりサービスの立ち上げを担当<br>東京オリンピックのマスコットを募集するためのサイト<br><br>**範囲:** 基本設計, 詳細設計、コーディング、レビュー<br><br>**詳細:**<br>Salesforceのサイト公開機能を利用し公開ページを作成<br>登録者に向けて仮登録機能、本登録機能、メール送信機能を提供<br>仮登録時に有効期限を１時間としたtoken付きURLの発行<br>複数画像の同時登録機能の提供 | Salesforce Site, Apex, Visualforce | メンバー/5人 |
+| 2018/06<br>~<br>2019/03 | **DMM/Pachinko/Pachislot Information Integration Application Development**<br>公共賭博の店舗情報などを公開するスマホアプリのAndroid、iOSアプリの改修案件を担当いたしました. 改修内容としては、単純にアプリの画面開発だけでなく、新機能の追加の際に必要となるAPI項目の洗出〜作成依頼、アプリ側の通信〜画面表示までを担当<br><br>**範囲:** 画面設計、設計、コーディング、レビュー<br><br>**詳細:**<br>既存アプリのバグ改修や新規機能の追加業務を担当<br>APIチームへ開発に必要なJSONスキーマの連携<br>チーム内で振り返り手法のKPTを利用し、開発効率の向上<br>アプリ開発者からAPIチームへの連絡手段が限られる => 別チームにも気軽に連携できるように工夫 | Java(Android)<br>Kotlin<br>Objective-C<br>ButterKnife, PopInfo(通知ライブラリ)<br>GitLab | メンバー/3人 |
+| 2018/01<br>~<br>2018/04 | **In-house Service / Employee Motivation Management Web Application**<br>ゼロからの開発となりサービスの立ち上げを担当<br>社員のモチベーションを外部GmailやSlack、その他チャットツールを利用し社員のモチベーションをWatsonAPIにより判定させるWebアプリケーション<br><br>**範囲:** 画面設計、設計、コーディング、レビュー<br><br>**詳細:**<br>Kotlin(Spring), Vue.jsでのSPA開発<br>SlackAPIとの認証処理<br>フロントからバックエンドにかけてCSVでのユーザ登録機能の作成 | Kotlin(Spring)<br>Gradle<br>MySQL, DOMA2<br><br>WatsonAPI, SlackAPI, ChatworkAPI<br><br>AWS EC2, Docker, docker-compose | メンバー/4人 |
+| 2017/09<br>~<br>2018/01 | **Information Bank PoC Project, Travel Proposal Android App Development**<br>情報銀行としての役割を試験的に検証するためのPoC案件<br>登録者が詳細な個人情報以外の性格情報等を入力し、入力の代わりにオペレータが観光地の旅行プランを提案するAndroidアプリ<br><br>**範囲:** バックエンド設計、設計、コーディング、レビュー<br><br>**詳細:** <br>Salesforceの基本設定、SalesforceのHeroku ConnectでのDB連携<br>Heroku Connect側のAPI設計 | Apex(Java) <br>Salesforce, Heroku, Heroku Connect, SpringBoot<br>Java(Android) | メンバー/5人 |
+| 2017/04<br>~<br>2017/08 | **Government/Olympic mascot recruiting site development**<br>ゼロからの開発となりサービスの立ち上げを担当<br>東京オリンピックのマスコットを募集するためのサイト<br><br>**範囲:** 基本設計, 詳細設計、コーディング、レビュー<br><br>**詳細:**<br>Salesforceのサイト公開機能を利用し公開ページを作成<br>登録者に向けて仮登録機能、本登録機能、メール送信機能を提供<br>仮登録時に有効期限を１時間としたtoken付きURLの発行<br>複数画像の同時登録機能の提供 | Salesforce Site, Apex, Visualforce | メンバー/5人 |
 
 </div>
     
@@ -75,11 +75,11 @@ After graduating from university, joined an information and telecommunications d
 
 | Period | Project Details | Development Environment | Role/Scale |
 | - | - | - | - |
-| 2016/04<br>~<br>2017/03 | **YONEX/物流システム開発**<br>海外流通のあるスポーツメーカーの内部システムの改修案件に携わる<br><br>**範囲:** 設計、コーディング<br><br>**詳細:**<br>SpringBootフレームワーク上でAPIの追加<br>関税、国別通貨別の料金計算<br>商品受注、料金計算を行う画面開発 | Salesforce<br>Java8, SpringBoot<br>thymeleaf, JPA<br>jQuery, JavaScript | メンバー/5人 |
+| 2016/04<br>~<br>2017/03 | **YONEX/Logistics system development**<br>海外流通のあるスポーツメーカーの内部システムの改修案件に携わる<br><br>**範囲:** 設計、コーディング<br><br>**詳細:**<br>SpringBootフレームワーク上でAPIの追加<br>関税、国別通貨別の料金計算<br>商品受注、料金計算を行う画面開発 | Salesforce<br>Java8, SpringBoot<br>thymeleaf, JPA<br>jQuery, JavaScript | メンバー/5人 |
 
 </div>
 
-## Skills
+## スキル
 
 | Type | Language | Period | Level |
 | - | - | - | - |
@@ -107,7 +107,7 @@ After graduating from university, joined an information and telecommunications d
 
 > ※ 業務経験あり：★　
 
-## Qualifications
+## 保有資格
 
 - TOEIC 500 (2021/07/20)
 - Oracle Java Silver SE 8
