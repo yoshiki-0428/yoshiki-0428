@@ -116,7 +116,7 @@
 
 ## 自己PR
 
-　バックエンドからフロントエンドまで幅広く設計ができるWebアプリエンジニアです. 具体的な言語はGo, Java, Vue.js, TypeScriptを使用し、各言語特性を理解しマイクロサービスなアーキテクチャでのアプリ設計が可能です. 
+　バックエンドからフロントエンドまで幅広く設計ができるWebアプリエンジニアです. 具体的な言語はGo, Java, Next.js, TypeScriptを使用し、各言語特性を理解しマイクロサービスなアーキテクチャでのアプリ設計が可能です. 
 　バックエンド、OAuth2の認証部分の実装や、DBのSQLチューニング、BFFの構築をしフロントに連携して開発ができます. また、Spring5のWebFluxをコントロールし、PubSubAPIを通じたリアルタイムイベントの実装も担当いたしました.
 　フロントエンド、AtomicDesignでのコンポーネント思想、通信部分と表現部分を分離して開発することの重要性を理解しております. また、Three.jsのWebGLとSSE（リアルタイムイベント）を使用したロボットモデルのリアルタイムモデル再生といった先進的な技術的挑戦も業務で担当いたしました.
 アプリレイヤーだけでなく、各アプリのDockerイメージ化や、簡易スクリプトをk8s上でCronJob化するなど、アプリレイヤーからインフラ層へ繋げるスキルも持ち合わせております.
@@ -139,11 +139,14 @@
 - [ブログ開発](https://github.com/yoshiki-0428/engineer-blog)(https://github.com/yoshiki-0428/engineer-blog)
 - [3Dモデルを活かしたポートフォリオ作成](https://github.com/yoshiki-0428/vue_self_introdude)(https://github.com/yoshiki-0428/vue_self_introdude)
 
-### 
+### Side Job
 
 - Omusubi-chのBackend開発をお手伝い
-    - Golang GinでDockernizedをしたり、NoSQLでのデータサマライズの手法を提案など
-- CtoCの本の要約サービスのアーキテクトを担当
+    - コラボ配信のバックエンド設計・開発作業を担当
+    - API: Golang Gin, DB: Dynamodb
+- CtoCの本の要約サービスのアーキテクトを設計・開発〜リリース
+    - API: Node, Front: Next.js, 型、クライアント自動生成技術で開発作業を短縮
+    - 現在は諸事情に付きストップ
 
 ## 興味・意欲
 
