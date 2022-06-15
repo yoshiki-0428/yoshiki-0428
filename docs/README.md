@@ -1,6 +1,6 @@
 # 職務経歴書
 
-<div style="text-align: right;">2022/06/01 現在</div>
+<div style="text-align: right;">2022/06/15 現在</div>
 
 <div style="text-align: right;">氏名 大橋芳生</div>
 
@@ -133,17 +133,17 @@
 
 ### 個人開発
 
+- [Web地図アプリ開発 ねこまっぷ](https://nekomap.vercel.app)(https://nekomap.vercel.app)
 - [みんなのサブスクメディアサイト企画・開発・運用](https://review.subsc.cc/)(https://review.subsc.cc/)
 - [Gatsby Theme開発](https://github.com/yoshiki-0428/gatsby-all-pack-theme-starter)(https://github.com/yoshiki-0428/gatsby-all-pack-theme-starter)
 - [ブログ開発](https://github.com/yoshiki-0428/engineer-blog)(https://github.com/yoshiki-0428/engineer-blog)
 - [3Dモデルを活かしたポートフォリオ作成](https://github.com/yoshiki-0428/vue_self_introdude)(https://github.com/yoshiki-0428/vue_self_introdude)
 
-### 副業
+### 
 
 - Omusubi-chのBackend開発をお手伝い
     - Golang GinでDockernizedをしたり、NoSQLでのデータサマライズの手法を提案など
-- 本の要約を各人で投稿できるCtoC Webサービスの開発
-    - フォロワー6万人ほどいるマーケター、デザイナーと協力し開発
+- CtoCの本の要約サービスのアーキテクトを担当
 
 ## 興味・意欲
 
