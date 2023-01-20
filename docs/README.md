@@ -13,9 +13,28 @@
 
 ## 職務経歴
 
+<!-- Yahoo Start -->
+
+<div style="display: flex; justify-content: space-between; border-bottom: 1px solid; margin-top: 10px;">
+    <div>ヤフー株式会社 - Yahoo Japan Corporation</div>
+  <div>(勤務期間: 2023/01 ~ 現在)</div>
+</div>
+
+### 事業内容: 「PayPay」や「ヤフオク!」「Yahoo!ショッピング」などの100を超えるECサービスの開発・運用
+
+<div class="career ">
+
+| 期間 | 担当業務 | 開発環境等 | 役割/規模 |
+| - | - | - | - |
+| 2023/01<br>~<br>現在 | **Yahoo/ショッピング配送機能追加開発**<br><br>バックエンドエンジニアとして新配送機能の開発設計業務・リファクタ設計見積・リリース等の運用作業を担当<br><br>**範囲:** 要件定義、機能検討、設計、コーディング、レビュー<br><br>**詳細:**<br>マイクロサービス化された社内システムをもとに**3000rps**を超えるリクエストに耐えうる設計、アーキテクトを経験. 配送ドメインではJava11~18でAPI開発業務・仕様調整・スクラムで毎週見積もりで進める開発スタイルを取っている. | Java11, Java18<br>SpringBoot 3.0.1<br>Spring 5 WebFlux<br><br>社内クラウド<br>kubernetes<br> | チーム規模 8人<br><br>全体メンバー/400名~<br>Develop/200名<br>Businnes/200名<br> |
+
+</div>
+
+<!-- Yahoo End -->
+
 <div style="display: flex; justify-content: space-between; border-bottom: 1px solid; margin-top: 10px;">
     <div>楽天グループ株式会社</div>
-  <div>(勤務期間: 2021/06 ~ 現在)</div>
+  <div>(勤務期間: 2021/06 ~ 2022/12)</div>
 </div>
 
 
