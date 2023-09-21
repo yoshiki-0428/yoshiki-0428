@@ -1,6 +1,6 @@
 # 職務経歴書
 
-<div style="text-align: right;">2023/01/20 現在</div>
+<div style="text-align: right;">2023/09/21 現在</div>
 
 <!-- <div style="text-align: right;">氏名 大橋芳生</div> -->
 
@@ -115,14 +115,12 @@
 |  | Spring WebFlux | ★1年 | メンバーに指導ができる |
 |  | Spring Security | ★1年 | 使用経験がある |
 |  | Spring Cloud Gateway | ★1年 | メンバーに指導ができる |
-|  | Rails | ★1年 | 業務で即戦力になれる |
+|  | Rails | ★2年 | 業務で即戦力になれる |
 |  | Vue.js | ★2年 | メンバーに指導ができる |
 |  | React.js | ★2年 | メンバーに指導ができる |
-|  | Gatsby.js | 1年 | 個人開発 Gatsby Theme開発<br>(https://github.com/yoshiki-0428/gatsby-all-pack-theme-starter) |
-|  | Next.js | 1年 | 個人開発 みんなのサブスク<br>(https://review.subsc.cc) |
-|  | frourio | 半年 | 個人開発で使用 |
+|  | Next.js (12, 13) | 2年 | 業務で即戦力になれる |
 | **CI/CD** | GitHub Actions | ★1年 | 使用経験がある |
-|  | Circle CI | ★1年 | 使用経験がある |
+|  | AWS CodePipeline, CDK | ★1年 | 使用経験がある |
 |  | GitLab CI | ★1年 | 使用経験がある |
 
 > ※ 業務経験あり：★　
@@ -148,25 +146,28 @@
 ### 技術投稿
 
 - GitHub: https://github.com/yoshiki-0428
-- Qiita: https://qiita.com/yoshiki-0428
 - Blog: https://tech-blog.yoshikiohashi.dev
+- Qiita: https://qiita.com/yoshiki-0428
 
 ### 個人開発
 
 - [Web地図アプリ開発 ねこまっぷ](https://nekomap.vercel.app)(https://nekomap.vercel.app)
 - [みんなのサブスクメディアサイト企画・開発・運用](https://review.subsc.cc/)(https://review.subsc.cc/)
-- [Gatsby Theme開発](https://github.com/yoshiki-0428/gatsby-all-pack-theme-starter)(https://github.com/yoshiki-0428/gatsby-all-pack-theme-starter)
 - [ブログ開発](https://github.com/yoshiki-0428/engineer-blog)(https://github.com/yoshiki-0428/engineer-blog)
+- [Gatsby Theme開発](https://github.com/yoshiki-0428/gatsby-all-pack-theme-starter)(https://github.com/yoshiki-0428/gatsby-all-pack-theme-starter)
 - [3Dモデルを活かしたポートフォリオ作成](https://github.com/yoshiki-0428/vue_self_introdude)(https://github.com/yoshiki-0428/vue_self_introdude)
 
 ### Side Job
 
+- 医療系SaaSの開発お手伝い
+  - Ruby on Railsでフルスタックに開発
+  - AWS CDKを用いてCI/CD環境の構築
 - Omusubi-chのBackend開発をお手伝い
-    - コラボ配信のバックエンド設計・開発作業を担当
-    - API: Golang Gin, DB: Dynamodb
+  - コラボ配信のバックエンド設計・開発作業を担当
+  - API: Golang Gin, DB: Dynamodb
 - CtoCの本の要約サービスのアーキテクトを設計・開発〜リリース
-    - API: Node, Front: Next.js, 型、クライアント自動生成技術で開発作業を短縮
-    - 現在は諸事情に付きストップ
+  - Next.jsで開発 型、クライアント自動生成技術で開発作業を短縮
+  - https://lecshire.com
 
 ## 興味・意欲
 
