@@ -2,9 +2,6 @@
 
 <div style="text-align: right;">2023/09/21 現在</div>
 
-<!-- <div style="text-align: right;">氏名 大橋芳生</div> -->
-
-
 ## 職務概要
 
 <div style="border: 1px solid; padding: 3px;">
