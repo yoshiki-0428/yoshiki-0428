@@ -10,6 +10,6 @@
   "keywords": [],
   "devDependencies": {
     "husky": "^5.0.0-alpha.6",
-    "md-to-pdf": "^5.2.4"
-  }
+    "md-to-pdf": "^3.1.1"
+}
 }
