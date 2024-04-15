@@ -1,6 +1,6 @@
 # 職務経歴書
 
-<div style="text-align: right;">2023/09/21 現在</div>
+<div style="text-align: right;">2024/04/31 現在</div>
 
 ## 職務概要
 
@@ -103,14 +103,12 @@
 | **言語** | Java8, Java11 | ★4年 | メンバーに指導ができる |
 |  | Kotlin | ★1年 | 業務で即戦力になれる |
 |  | Golang | ★1年 | 業務で即戦力になれる |
-|  | JavaScript | ★3年 | 業務で即戦力になれる |
 |  | TypeScript | ★3年 | 業務で即戦力になれる |
 | DB | MySQL | ★2年 | 構築からチューニングまで対応できる |
 |  | PostgresSQL | ★1年 | 知識がある |
 | フレームワーク | Spring Boot | ★3年 | メンバーに指導ができる |
 |  | Spring MVC | ★1年 | メンバーに指導ができる |
 |  | Spring WebFlux | ★1年 | メンバーに指導ができる |
-|  | Spring Security | ★1年 | 使用経験がある |
 |  | Spring Cloud Gateway | ★1年 | メンバーに指導ができる |
 |  | Rails | ★2年 | 業務で即戦力になれる |
 |  | Vue.js | ★2年 | メンバーに指導ができる |
