@@ -23,6 +23,9 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+[<img width="1165" alt="image" src="https://github.com/user-attachments/assets/179684e9-4fff-4b63-98b1-23ebf8f651c1" />](https://yoshikiohashi.dev/)
+
+
 
 [![BLOG](https://img.shields.io/badge/BLOG-yoshikiohashi.dev-008080)](https://tech-blog.yoshikiohashi.dev/) 
 [![TWITTER](https://img.shields.io/badge/Twitter-@yoshiki__0428-1DA1F2)](https://twitter.com/yoshiki__0428) 
