@@ -18,7 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML         6 mins          ███████████▓░░░░░░░░░░░░░   46.26 %
+Astro        5 mins          █████████░░░░░░░░░░░░░░░░   36.52 %
+JavaScript   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
 ```
 
 <!--END_SECTION:waka-->
