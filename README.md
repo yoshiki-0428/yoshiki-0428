@@ -18,10 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 53 mins   ███████████████████████▓░   94.97 %
-YAML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Terraform    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
