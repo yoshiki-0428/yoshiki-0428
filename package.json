@@ -10,7 +10,7 @@
   "keywords": [],
   "dependencies": {
     "md-to-pdf": "^5.2.4",
-    "puppeteer": "^22.6.4",
-    "puppeteer-core": "^22.6.4"
+    "puppeteer": "^24.18.0",
+    "puppeteer-core": "^24.18.0"
   }
 }
