@@ -1,7 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1699659569/74744/huh.gif?1699659569" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! I'm <b>Yoshiki Ohashi</b>, Backend, Frontend developer from <b>Niigata, Japan</b>. Now I lived in **Tokyo**. I prefer to work the hybrid.
+<p>Welcome to my page! I'm <b>Yoshiki Ohashi</b>, Backend, Frontend developer from <b>Niigata, Japan</b>. Now I lived in <b>Tokyo</b>. I prefer to work the hybrid.
 
 <h3>Where to find me</h3>
 
