@@ -1,6 +1,6 @@
 # 職務経歴書
 
-<div style="text-align: right;">2024/10/04 現在</div>
+<div style="text-align: right;">2025/10/07 現在</div>
 
 ## 職務概要
 
