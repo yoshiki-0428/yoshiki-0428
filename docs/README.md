@@ -1,6 +1,6 @@
 # 職務経歴書
 
-<div style="text-align: right;">2025/10/07 現在</div>
+<div style="text-align: right;">2025/11/25 現在</div>
 
 ## 職務概要
 
@@ -24,7 +24,7 @@
 
 | 期間 | 担当業務 | 開発環境等 | 役割/規模 |
 | - | - | - | - |
-| 2025/02<br>~<br>現在 | **自治体職員向けAI業務支援アプリの新規開発**<br><br>自治体職員の方がNo Promptでステップ型のワークフローでLLMを簡単に利用できるAIサービスの新規開発にTech Leadとして技術選定・インフラ構築を取り組みました.<br><br>技術選定としてスピード感早く開発できる利点を得るため型安全でFEとOpenAPIでやり取りを行わないTypeScriptの型を共有できるtRPCを導入しました. また、TypeScriptの経験があれば気軽にBEも実装に着手できる技術者の学習コストの観点も考慮をしました. 構成はBE APIとFEを分けるベーシックな方式でIaC構築まで担当. 顧客から要望のあったIP制限もALBを用いてCloud Armorでの制御でスピード感早く対応をしました. <br>また、RAG検索のGCP VertexAI Searchを導入しスピーディに資料検索の機能を導入をし, GCPのDocumentAIを用いてLayout Parserで文書を意味理解できる状態でChunk化文章で学習処理を設計しました.<br>また、AIの機能開発ではLangChain, LangGraphによるLLM Workflowを構築したり、OpenAIだけでなく、Geminiでstreaming処理を開発しました. FEとの連携はSSEを採用し、JSONを都度都度送るのではなく、最小限のJSONを送信するように通信量を節約するように工夫をしました.<br>LLMOpsであるLangfuseをGCPにセルフホストするようにし、LLMのエラー監視、リランク処理も可能なように設計しました. 評価処理としてはOSSのRAGASを導入し, 回答の精度を自動評価できる仕組みづくりまでを設計しました.　<br>現在はDevOps的な立場となり、GHAを使用したGCP 1project内にBE(CloudRun)の複製環境を作成するなどし、PRのコンフリクト・衝突,staging相乗りデグレ問題解消,リリーススピード向上に貢献をしました. | tRPC / Fastify / TypeScript / Node.js<br>Nextjs<br>turborepo<br>Prisma<br>GCP CloudRun <br>Terraform<br>VertexAI Search<br>LG-WAN | エンジニア: 3人<br>デザイナー: 1人<br>PdM：1人 | </div> |
+| 2025/02<br>~<br>現在 | **自治体職員向けAI業務支援アプリの新規プロダクト開発**<br><br>自治体職員の方がNo Promptでステップ型のワークフローでLLMを簡単に利用できるAIサービスの新規開発にTech Leadとして技術選定・インフラ構築を取り組みました.<br><br>技術選定としてスピード感早く開発できる利点を得るため型安全でFEとOpenAPIでやり取りを行わないTypeScriptの型を共有できるtRPCを導入しました. また、TypeScriptの経験があれば気軽にBEも実装に着手できる技術者の学習コストの観点も考慮をしました. 構成はBE APIとFEを分けるベーシックな方式でIaC構築まで担当. 顧客から要望のあったIP制限もALBを用いてCloud Armorでの制御でスピード感早く対応をしました. <br>また、RAG検索のGCP VertexAI Searchを導入しスピーディに資料検索の機能を導入をし, GCPのDocumentAIを用いてLayout Parserで文書を意味理解できる状態でChunk化文章で学習処理を設計しました.<br>また、AIの機能開発ではLangChain, LangGraphによるLLM Workflowを構築したり、OpenAIだけでなく、Geminiでstreaming処理を開発しました. FEとの連携はSSEを採用し、JSONを都度都度送るのではなく、最小限のJSONを送信するように通信量を節約するように工夫をしました.<br>LLMOpsであるLangfuseをGCPにセルフホストするようにし、LLMのエラー監視、リランク処理も可能なように設計しました. 評価処理としてはOSSのRAGASを導入し, 回答の精度を自動評価できる仕組みづくりまでを設計しました.　<br>現在はDevOps的な立場となり、GHAを使用したGCP 1project内にBE(CloudRun)の複製環境を作成するなどし、PRのコンフリクト・衝突,staging相乗りデグレ問題解消,リリーススピード向上に貢献をしました. | tRPC / Fastify / TypeScript / Node.js<br>Nextjs<br>turborepo<br>Prisma<br>GCP CloudRun <br>Terraform<br>VertexAI Search<br>LG-WAN | エンジニア: 3人<br>デザイナー: 1人<br>PdM：1人 | </div> |
 | 2024/10<br>~<br>2025/01 | **公共ライドシェアサービスの新機能開発**<br><br>当時、新しく提供予定だった香取市に固定路線バスで予約可能な新機能を開発しました. BEの開発が既にスタートしていたため, FEを担当しデザインとの繋込みを主に担当しました. <br>また, 負荷分散のためにライドシェアの配車計算処理のタスク処理を導入し自治体毎にCloud TaskのQueueで分散し、複数自治体導入したときに待ち時間を最小限にするようにしました. 配車計算は地域ごとに同時にはできなく、配車予定を計算の上決定されます. 今までは1processで稼働していた計算サーバを自治体別で計算できるように調整をしました. | Nextjs<br>OpenAPI/Swagger<br>Python/FastAPI<br>配車計算処理 (OR-Tools)<br>GCP Cloud Task / GCE | エンジニア: 2人<br>デザイナー: 1人<br>PdM：1人 |
 | 2024/07<br>~<br>2024/09 | **3年間放置されたGCP環境のTerraform化**<br><br>入社当時、正社員エンジニアは自分だけだったため、数年間放置されたインフラを理解するためにも未経験だったTerraform（CDKの経験有）で既存リソースのIaC化を行いました。最初はGHAを利用し、CI/CD環境を構築したり、古き良きenvsルールで環境ごとにリソースを作成しました.<br>また、GHAからアプリケーションをデプロイできるようにGCP Workload Identityの設定で安全に秘匿情報をやり取りし、デプロイできる環境作成をしました.<br><br>後半からは、ブランチデプロイメントを実現するためにOSSのAtlantisサーバの導入をし、GitHub内でのコメントで複数環境をデプロイできるようにしました。これで1プロジェクトだけでなく、別のプロジェクトもGHAでTerraform CI/CDのコードを書くことなく、作業を標準化することにも貢献をしました. | Terraform<br>GCP<br>GitHub Actions | チーム規模 1人 |
 
