@@ -18,10 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-MDX          1 hr 3 mins     ██████████████████████░░░   87.82 %
-Markdown     4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-TypeScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
