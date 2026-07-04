@@ -13,19 +13,7 @@
 <a href="https://zenn.dev/yoshiki__0428" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=for-the-badge&logo=Zenn&logoColor=white" /></a>
 </p>
 
-<h3>Development metrics</h3>
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-[<img width="1165" alt="image" src="https://github.com/user-attachments/assets/179684e9-4fff-4b63-98b1-23ebf8f651c1" />](https://yoshikiohashi.dev/)
-
-
+[<img width="1560" height="948" alt="image" src="https://github.com/user-attachments/assets/e3899c8d-3b7c-4f68-85ad-c171dbce307d" />](https://yoshikiohashi.dev/)
 
 [![BLOG](https://img.shields.io/badge/BLOG-yoshikiohashi.dev-008080)](https://tech-blog.yoshikiohashi.dev/) 
 [![TWITTER](https://img.shields.io/badge/Twitter-@yoshiki__0428-1DA1F2)](https://twitter.com/yoshiki__0428) 
